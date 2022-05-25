@@ -1,0 +1,8 @@
+timestep,num_scouts_produced,num_gatherers_produced,num_scouts_alive,num_gatherers_alive,total_food_collected,num_ants_returned,num_complete_trips,num_phero_A_on_map,num_phero_B_on_map,num_food_on_map,amount_of_food_left
+0,4,6,4,0,0,0,0,0,0,116,580
+5,4,6,4,0,0,0,0,8,0,116,580
+10,4,6,4,0,0,0,0,24,0,116,580
+15,4,6,4,0,0,0,0,37,2,116,579
+20,4,6,4,0,0,0,0,51,8,116,578
+25,4,6,4,0,0,0,0,61,18,116,578
+26,4,6,4,6,1,0,0,63,20,116,577
